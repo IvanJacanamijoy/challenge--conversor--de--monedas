@@ -6,7 +6,7 @@ Este proyecto fue desarrollado como parte de un reto del programa Oracle Next Ed
 - Interfaz de Consola para la interacion del Usuario
 # Requisitos previos
 - Java 15+
-- API de Exchange Rate [enlace para crear API ExchangeRate](https://www.exchangerate-api.com/)
+- API de Exchange Rate [API ExchangeRate](https://www.exchangerate-api.com/)
 # Tenologias Utilizadas
 - Java 15+
 - GSON: para convertir los dato JSON.
