@@ -11,7 +11,7 @@ import java.net.http.HttpResponse;
 
 
 public class ConsultaMoneda {
-    private String key = "5a85f967f84eb04656a339f4";
+    private String key = "Your-Key";
     private String direccionBase = "https://v6.exchangerate-api.com/v6/" + key + "/pair/";
 
 
