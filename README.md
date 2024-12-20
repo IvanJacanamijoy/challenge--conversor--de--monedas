@@ -1,4 +1,4 @@
-# conversor de monedas
+# Conversor de monedas
 Este proyecto fue desarrollado como parte de un reto del programa Oracle Next Education. Su objetivo principal fue crear una aplicación en Java que permitiera a los usuarios convertir monedas de manera precisa y rápida, utilizando una API de cambio de moneda.
 # Caracteristicas
 - Realiza la conversión de diferentetes tipos de moneda (USD "Dolar estado unidense" a COP "peso colombiano, etc.")
