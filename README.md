@@ -20,7 +20,7 @@ Este proyecto fue desarrollado como parte de un reto del programa Oracle Next Ed
 
   - Luego se ingresa el monto a convertir.
   
-![monto conversion](https://github.com/user-attachments/assets/4a0683ad-e4ce-4617-b4d6-ab77e04ddc72)
+  ![monto conversion](https://github.com/user-attachments/assets/4a0683ad-e4ce-4617-b4d6-ab77e04ddc72)
 
 
   - Una vez ingresado el monto y presionado enter , se mostra el resultado mostrando la cantidad cambiada y el tipo de cambio.
@@ -30,7 +30,7 @@ Este proyecto fue desarrollado como parte de un reto del programa Oracle Next Ed
   
   - Posteriormente se mostrara nuevamente el menu de inicio para poder realizar otro cambio nuevamente hasta que el usuario seleccione la opcion de salir.
 
-    ![finalizacion aplicacion](https://github.com/user-attachments/assets/b8f5213c-096d-470a-b542-8298fef897ad)
+  ![finalizacion aplicacion](https://github.com/user-attachments/assets/b8f5213c-096d-470a-b542-8298fef897ad)
 
 
   # Autor
